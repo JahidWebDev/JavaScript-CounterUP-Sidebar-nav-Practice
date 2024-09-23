@@ -1,0 +1,37 @@
+@import url(./common.css);
+
+.sidenav{
+    width: 20vw;
+    height: 100vh;
+    background: #ff8d5c;
+    padding:30px;
+    
+    transition: all linear 0.3s;
+}
+
+.activeSideNav{
+    transform: translateX(-100%);
+}
+
+
+.navTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+}
+
+
+.whole_body{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navberIcon{
+    padding: 40px;
+    cursor: pointer;
+    
+} 
+
+

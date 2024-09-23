@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+:root {
+    --primary-color: #191919;
+    --primary: #408cf9;
+    --white: #FFFFFF;
+    --sidebar-primary-hover: #2B2B2F;
+    --sidebar-background: #141318;
+    --background: #F3F5F6;
+    --text-link: #FFFFFF;
+    --expand-butoon: #408CF9;
+    --logout: #fa7575;
+    --search-backgound: #2b2b2f;
+
+}
+

@@ -1,0 +1,22 @@
+.coun {
+  display: flex;
+
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.container {
+  width: 600px;
+  height: 300px;
+  background-color: rgba(113, 100, 209, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px 30px;
+}
